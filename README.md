@@ -1,12 +1,12 @@
-![PicsArt_02-27-10 30 15](https://user-images.githubusercontent.com/68744875/113280042-70b39600-9301-11eb-986a-04a9e73df2f1.png)
+![Untitled design](https://user-images.githubusercontent.com/68744875/113280906-8d9c9900-9302-11eb-9eed-38806a6171d8.png)
+
 <p align="center">
-<a href="https://www.facebook.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/_pratyush__pk_12__/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pratyush-kumar-b5b968189/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/kpratyush12345"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:kpratyush12345@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCLWawchg26b5_w2YUpm38pQ"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100008141718031"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/prashan25885238"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/_prashant.singh_/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/prashantsingh20"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="mailto:prashantprasar1@outlook.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
 <h1 align='center'> Hi! :wave:</h1>
