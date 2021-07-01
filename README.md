@@ -8,12 +8,13 @@
 <a href="https://github.com/prashantsingh20"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="mailto:prashantprasar1@outlook.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
-<p align='center'>
+
 ## Hi I'm Prashant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-</p>
+
 <p align='center'>
 ⚡I'm Prashant Singh, Web Developer.
 </p>
+
 <p> I am Computer Science and Engineering Student at SJB Institute of Technology , Bangalore. I am fascinated about programming and exploring new CS fields. I enjoy solving problems with use of programming. I am always energetic and eager to learn new skills. I have good leadership skills as well as I can work as a team member. I am currently looking for internship and job opportunities that matches my skills. </p>
 
 - 💻: Most used line of code `git commit -m "First Commit"`
@@ -53,8 +54,6 @@
 ![Sagar's Contribution chart](https://activity-graph.herokuapp.com/graph?username=prashantsingh20&theme=react-dark)
 
 <br>
-
-![repo](https://github-readme-stats.vercel.app/api/pin?username=prashantsingh20&repo=Gradients-Palette&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
 
