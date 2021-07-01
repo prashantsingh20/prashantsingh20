@@ -8,10 +8,9 @@
 <a href="https://github.com/prashantsingh20"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="mailto:prashantprasar1@outlook.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
-
-<h1 align='center'> Hi! :wave:</h1>
-
-## Hi I'm Prashant Singh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<p align='center'>
+## Hi I'm Prashant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+</p>
 <p align='center'>
 ⚡I'm Prashant Singh, Web Developer.
 </p>
@@ -19,7 +18,7 @@
 
 - 💻: Most used line of code `git commit -m "First Commit"`
 - 🤔 I’m looking for help with Outstanding Project ideas.
-- 📫 How to reach me: 6969sagarsharma@gmail.com.
+- 📫 How to reach me: prashantsingh.prashant20@gmail.com.
 - ✔ 2021 Goal: Contribute more to Open Source projects
 - ⚡ Fun fact: I am crazy
 
