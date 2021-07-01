@@ -2,11 +2,11 @@
 
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100008141718031"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/prashan25885238"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://https://twitter.com/prashanthsingh_"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_prashant.singh_/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
 <a href="https://github.com/prashantsingh20"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:prashantprasar1@outlook.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
+<a href="mailto:prashantsingh.prashant20@gmail.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
 </p>
 
 ## Hi I'm Prashant <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
